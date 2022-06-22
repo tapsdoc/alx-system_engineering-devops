@@ -14,3 +14,4 @@
 13-We re symbols
 14-Copy HTML files
 15-Let's move
+16Clean emacs
