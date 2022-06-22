@@ -16,3 +16,4 @@
 15-Let's move
 16Clean emacs
 17-Tree
+18-Life is a series of commas, not periods
