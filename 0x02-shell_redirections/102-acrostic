@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -c11 | paste -s | tr -d "[:blank:]"
